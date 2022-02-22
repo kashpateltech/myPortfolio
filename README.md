@@ -7,7 +7,6 @@
 - [General Info](#general-information)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Contact](#contact)
 - [License](#license)
 
@@ -26,10 +25,6 @@
 ## Features
 
 - Polished UI using Bootstrap
-
-## Screenshots
-
-SHOPAHOLIC ![Screen Shot 2022-02-08 at 3 52 46 pm](https://user-images.githubusercontent.com/88652187/152920606-7e20ae55-35c8-4d31-be95-efeacd4c26a1.png)
 
 ## Contact
 
