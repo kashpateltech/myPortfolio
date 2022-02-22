@@ -1,7 +1,6 @@
-# SHOPAHOLIC ECOMMERCE STORE
+# MY PORTFOLIO WEBSITE
 
-> A simple ecommerce website.
-> Live demo [_here_](https://shopaholic-mern.herokuapp.com/).
+> This is my portfolio website showcasing my skills and some of the projects that I have worked on.
 
 ## Table of Contents
 
@@ -14,9 +13,7 @@
 
 ## General Information
 
-- Easy to Navigate E-commerce website for those who love shopping online. 
-- It have been designed and coded using MERN Stack Technology.
-- Deployed on Heroku
+- I have created my portfolio website, tried to keep it simple and minimalistic. It is responsive in all devices.
 
 ## Technologies Used
 
